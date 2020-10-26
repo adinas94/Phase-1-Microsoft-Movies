@@ -39,3 +39,12 @@ Utilized two groups of data from the API:
 
 # Insight #2 : Revenue Conclusions
 
+![Screen Shot 2020-10-25 at 7 11 07 PM](https://user-images.githubusercontent.com/72099238/97122727-12510e80-16f6-11eb-8361-3e16ebd284ff.png)
+
+* Analyzing films with the highest revenue for 2019
+* Relationship between budget and revenue is positive
+* The highest revenue films typically have the largest budgets.
+* Revenue is not typically correlated to Return on investment
+
+** Return on Investment 
+
