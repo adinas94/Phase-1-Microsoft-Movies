@@ -30,5 +30,12 @@ Utilized two groups of data from the API:
 * Dataset of 10,000 movies, across all years, sorted by popularity 
 
 
-# Insight 1: Voter averages and Revenue
+# Insight #1: Voter averages and Revenue
+
+![Screen Shot 2020-10-25 at 7 06 53 PM](https://user-images.githubusercontent.com/72099238/97122672-90f97c00-16f5-11eb-92e6-71c62a08f191.png)
+
+* Films with higher revenues tend to have higher voter averages
+* Popular films generally have voter averages that are higher than 5.0 on a 1-10 scale
+
+# Insight #2 : Revenue Conclusions
 
