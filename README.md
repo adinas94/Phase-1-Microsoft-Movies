@@ -3,17 +3,18 @@ Student Names: Adina Steinman, Chinh Ho, Andrew Banner
 
 Instructor Name: Yish Lim
 
-# Applications Utilized:
+# Applications Used:
 
 Data Science Tools Used:
 
 * Jupyter Notebook
 * Pandas 
+* Plotly Express
 * Matplotlib
 * Seaborn
 * APIs
 
-Website used:
+Websites used:
 
 * https://www.themoviedb.org/
 * TMDBSimple
@@ -44,7 +45,7 @@ Utilized two groups of data from the API:
 * Analyzing films with the highest revenue for 2019
 * Relationship between budget and revenue is positive
 * The highest revenue films typically have the largest budgets.
-* Revenue is not typically correlated to Return on investment
+* Revenue is not typically correlated to Return on Investment
 
 ** Return on Investment 
 
