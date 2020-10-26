@@ -48,3 +48,10 @@ Utilized two groups of data from the API:
 
 ** Return on Investment 
 
+![Screen Shot 2020-10-25 at 7 15 49 PM](https://user-images.githubusercontent.com/72099238/97122815-9c997280-16f6-11eb-9af4-f44943f4f785.png)
+
+* Films with highest budgets do typically have largest revenues.
+- Although films with  the highest budget typically do have the highest revenue they do NOT have the highest return on investment. 
+
+# Insight #3 : Return on Investment continued
+
