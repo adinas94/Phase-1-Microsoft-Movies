@@ -74,7 +74,7 @@ Avengers: End Game was highest in both revenue and budget only had a ROI of 7.85
 
 # Insight #4:  Correlation between Genres & Popularity
 
-![Screen Shot 2020-10-25 at 7 19 41 PM](https://user-images.githubusercontent.com/72099238/97122919-26494000-16f7-11eb-886f-9efb3ef6a44d.png)
+![Screen Shot 2020-10-25 at 7 32 52 PM](https://user-images.githubusercontent.com/72099238/97123306-424de100-16f9-11eb-8abc-9bef778efecd.png)
 
 * Drama is the most popular and appeared over 2200 times.
 * TV_Movie is the least popular and only appeared 5 times.
