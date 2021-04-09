@@ -89,6 +89,6 @@ Avengers: End Game was highest in both revenue and budget only had a ROI of 7.85
 * Microsoft should consider creating movies with popular genres; Drama, Comedy, Action and Thriller
 
 
-
+In this blog post below, I outline the process of navigating my first API in more detail: https://adinasteinman.medium.com/navigating-my-first-api-the-tmdb-database-d8d2975b0df4
 
 
